@@ -132,6 +132,8 @@ export default {
   EMOJI_LIKE: '👍',
 
   EMOJI_HEART: '❤️',
+  
+  EMOJI_THINKING: '🤔',
 
   // Hashtags
   HASHTAG_IM_NOT_OBLIGATED: '#NãoSouObrigada',
